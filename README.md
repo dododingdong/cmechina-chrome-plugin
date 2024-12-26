@@ -6,7 +6,23 @@
 
 ## 安装
 
-进入 [Release](https://github.com/codexu/cmechina-chrome-plugin/releases) 下载最新版本的 cmechina-chrome-plugin.zip ，然后解压，然后在 Chrome 中打开扩展程序页面，将解压后的文件夹拖动到扩展程序页面即可安装。
+1. 进入 [Release](https://github.com/codexu/cmechina-chrome-plugin/releases) 下载最新版本的 cmechina-chrome-plugin.zip ，然后解压。
+
+![](https://cdn.jsdelivr.net/gh/codexu/note-gen-image-sync@main/5a993507-d758-414a-9f7a-1defb65d82ce.png)
+
+2. 在 Chrome 中选择菜单 -> 扩展程序 -> 管理扩展程序
+
+![](https://cdn.jsdelivr.net/gh/codexu/note-gen-image-sync@main/4f0bdcb6-577f-42b0-a420-e577b859189a.png)
+
+3. 打开右上角的开发者模式
+
+4. 加载已解压的扩展程序，注意不是 zip 包，而是解压后的文件夹。
+
+![](https://cdn.jsdelivr.net/gh/codexu/note-gen-image-sync@main/c8e5ea20-ff79-42d4-b97b-8ffaf3762da3.png)
+
+看到拓展程序已经安装成功：
+
+![](https://cdn.jsdelivr.net/gh/codexu/note-gen-image-sync@main/5a074cc7-6e6d-4dc8-b55a-5106e35168a0.png)
 
 ## 使用方式
 
